@@ -1,4 +1,4 @@
-.page {
+.page{
   min-width: 1100px;
   max-width: 1600px;
   margin: 0 auto;
@@ -6,7 +6,7 @@
   text-overflow: unset;
 }
 
-.header {
+.header{
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
@@ -31,7 +31,7 @@
   left: 64px;
   font-size: 25px;
   position: absolute;
-  background-image: url(../images/logo_place_header.svg); 
+  background-image: url(../images/logo_place_header.svg);
 }
 
 .header-title{
@@ -378,7 +378,7 @@
 }
 
 .footer__column_link{
-  
+
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
@@ -391,11 +391,11 @@
 .footer__column_content_social{
   display: flex;
   flex-direction: column; 
+
    
 }
 
 .footer__social-icon{
-
   width: 16px;
   height: 16px;
   margin:0px 10px 0px 0px;
