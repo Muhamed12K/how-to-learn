@@ -52,7 +52,7 @@
   width: 338px;
   position: absolute;
   left: 64px;
-  bottom: 30px; 
+  bottom: 30px;
   line-height: 25px;
   font-size: 18;
   font-weight: normal;
@@ -90,7 +90,7 @@
 }
 
 .two-columns__brief{
-  display: flex ;
+  display: flex;
   width: 175px;
   line-height: 1.2;
   font-size: 18;
@@ -113,7 +113,7 @@
   flex-wrap: wrap;
   align-content: space-between;
   line-height: 34px;
-  font-size: 24px;  
+  font-size: 24px; 
   font-weight: normal;
   margin: 0px auto;
   padding: 0px auto;
@@ -326,7 +326,6 @@
 .footer__columns{
   width: 90%;
   padding: 0;
-  display: flex;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
