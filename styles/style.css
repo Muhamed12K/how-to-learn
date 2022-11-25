@@ -113,7 +113,7 @@
   flex-wrap: wrap;
   align-content: space-between;
   line-height: 34px;
-  font-size: 24px; 
+  font-size: 24px;
   font-weight: normal;
   margin: 0px auto;
   padding: 0px auto;
@@ -212,7 +212,7 @@
 .feynman__subtitle{
   text-align: center;
   z-index: 1;
-  margin-top: 70px ;
+  margin-top: 70px;
   line-height: 51px;
   font-size: 36;
   font-weight: normal;
