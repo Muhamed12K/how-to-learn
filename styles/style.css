@@ -244,7 +244,7 @@
   z-index: 0;
 }
 
-.kaufman__title{
+.section-title_theme_dark{
   color: white;
   line-height: 1.15;
   font-size: 60px;
@@ -255,7 +255,7 @@
   justify-content: center;
 }
 
-.kaufman__subtitle{
+.section-subtitle_theme_dark{
   color: white;
   line-height: 34px;
   font-size: 24px;
