@@ -1,0 +1,8 @@
+.table__cell{
+    caption-side: top;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: start;
+    width: 250px;
+    margin: 60px 0 0 0;
+  }
