@@ -1,9 +1,10 @@
-.iframe{
+.video__iframe{
     width: 515px;
     height: 316px;
     margin: 0 0;
+    border: 0;
   }
   
-  .iframe:nth-of-type(2n){
+  .video__iframe:nth-of-type(2n){
     margin-left: 20px;
   }
